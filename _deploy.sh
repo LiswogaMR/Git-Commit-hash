@@ -7,7 +7,7 @@
 # 4. All files for the commit hash would be generated in the _deploy folder (or other folder specified)
 #END READ ME
 #Get the commit hash that you want to move the file of.
-COMMIT_HASH="647c909d25d7c9323fea03b30e72c542fb19bf07"
+COMMIT_HASH="647c909d25d7c9323fea03b30e72c542fb19bf"
 #Directory to write all the files too.
 DEPLOY_DIR="C:/wamp64/www/DischemDashboard/_deploy/"
 echo "Checking Commit "$COMMIT_HASH
